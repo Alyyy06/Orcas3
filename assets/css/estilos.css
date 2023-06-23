@@ -1,0 +1,195 @@
+.container{
+	max-width: 1100px;
+}
+
+#row-encabezado{
+	background-image: url(../img/Fondo\ 2.jpg);
+	height: 550px;
+	background-size: cover;
+	position: relative;
+}
+
+ul{
+	text-align: center;
+}
+
+
+.title{
+	color: rgb(38, 4, 190);
+	font-size: 45px;
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%) ;
+	
+}
+
+.title-color{
+	color: rgb(8, 0, 122);
+}
+
+.btn{
+	background-color: blue;
+	border-radius: 20px;
+	color: aliceblue;
+	font-weight: bold;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.logo{
+	width: 120px;
+}
+
+#row-clasificacion{
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,77,121,1) 0%, rgba(0,212,255,1) 100%);
+}
+
+.row{
+	margin: 0;
+}
+
+#row-clasificacion img{
+	border-radius: 50%;
+
+}
+
+#row-descripcion{
+	background-image: url(../img/20.jpg);
+	background-size: cover;
+	padding-top: 100px !important;
+	padding-bottom: 100px !important;
+}
+
+#row-descripcion p{
+	font-size: 20px;
+	color: #faf4f4;
+	text-align: justify;
+}
+
+#row-descripcion img{
+	border-radius: 50%;
+	width: 355px;
+}
+
+#row-clasificacion p{
+	font-size: 14px;
+	text-align: justify;
+}
+
+#row-habitat{
+	background: linear-gradient(90deg, rgba(171,180,58,1) 0%, rgba(29,253,130,1) 50%, rgba(69,236,252,1) 100%);
+	padding-top: 50px !important;
+	padding-bottom: 50px !important;
+	
+}
+
+#row-habitat img{
+	border-radius: 50%;
+	width: 300px;
+}
+
+#row-habitat p{
+	font-size: 14px;
+	text-align: justify;
+}
+
+#row-comida{
+	background-image: url(../img/27.1.jpg);
+	background-size: cover;
+	padding-top: 50px !important;
+	padding-bottom: 50px !important;
+	
+}
+
+#row-comida img{
+	border-color: rgb(0, 0, 0);
+	width: 300px;
+	height: 300px;
+	padding-top: 3%;
+	margin-top: 20%;
+}
+
+#row-comida p{
+	font-size: 14px;
+	text-align: justify;
+}
+
+#row-caza{
+	background-image: url(../img/31.webp);
+	background-size: cover;
+	padding-top: 50px !important;
+	padding-bottom: 50px !important;
+	
+}
+
+#row-caza img{
+	border-radius: 50%;
+	border-color: rgb(0, 0, 0);
+	width: 300px;
+	height: 300px;
+	padding-top: 3%;
+}
+
+#row-caza p{
+	font-size: 14px;
+	text-align: justify;
+}
+
+#row-peligro{
+	background: radial-gradient(circle, rgba(63,215,251,1) 0%, rgba(225,230,41,1) 100%);
+	background-size: cover;
+	padding-top: 50px !important;
+	padding-bottom: 50px !important;
+	
+}
+
+#row-peligro img{
+	border-radius: 50%;
+	border-color: rgb(0, 0, 0);
+	width: 300px;
+	height: 300px;
+	padding-top: 3%;
+}
+
+#row-peligro p{
+	font-size: 14px;
+	text-align: justify;
+}
+
+#row-amigas{
+	background-image: url(../img/27.1.jpg);
+	background-size: cover;
+	padding-top: 50px !important;
+	padding-bottom: 50px !important;
+	
+}
+
+#row-amigas img{
+	border-color: rgb(0, 0, 0);
+	width: 300px;
+	height: 300px;
+	padding-top: 3%;
+	margin-top: 20%;
+}
+
+#row-amigas p{
+	font-size: 14px;
+	text-align: justify;
+}
+
+
+#row-contacto{
+	background-image: url(../img/fondo1.jpg);
+	background-size: cover;
+	background-position: center;
+	padding-top: 140px !important;
+	padding-bottom: 140px !important;
+	
+}
+.form-control{
+	border-radius: 50px;
+}
+
+footer{
+	background-color: black;
+}
